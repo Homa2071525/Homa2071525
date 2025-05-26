@@ -1,8 +1,8 @@
 👋 Hi, I’m @Homa2071525
 
-👀 I’m interested in data analysis, statistical modeling, and visualization techniques.
+🌱  I explore post-quantum and quantum-secure protocols.
 
-🌱 I’m looking to collaborate on projects related to predictive modeling and data-driven decision-making through data analysis.
+👀 I’m interested in contributing to research at the intersection of mathematics, cryptography, and quantum computation.
 
 😊 Fun fact: I enjoy hiking, biking, and exploring new trails in my free time.
 
